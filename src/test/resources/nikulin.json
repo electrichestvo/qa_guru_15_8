@@ -1,0 +1,11 @@
+{
+  "name": "Yuriy",
+  "surname": "Nikulin",
+  "age": 101,
+  "isActor": true,
+  "address": ["Demidov","Smolenskaya oblast'"],
+  "mother": {
+    "name": "Lidiya",
+    "isActress": true
+  }
+}
